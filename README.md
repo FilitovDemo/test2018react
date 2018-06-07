@@ -39,6 +39,19 @@ cd test2018react
 npm start
 ```
 
+### 開發
+
+### 推回github版本管理
+
+```
+git config user.name "編輯者名稱"
+git config user.email "電子郵件"
+git status
+git add .
+git commit -m "修改內容"
+git push
+```
+
 ## 第二次以後開發
 
 ### 取回前次開發版本
@@ -73,3 +86,17 @@ npm install
 ```
 npm start
 ```
+
+### 開發
+
+### 推回github版本管理
+
+```
+git config user.name "編輯者名稱"
+git config user.email "電子郵件"
+git status
+git add .
+git commit -m "修改內容"
+git push
+```
+
