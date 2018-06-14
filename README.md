@@ -70,11 +70,6 @@ git clone https://github.com/FilitovDemo/test2018react.git
 cd test2018react
 ```
 
-如果沒有安裝 react, 安裝他
-```
-npm install -g create-react-app
-```
-
 安裝必要套件
 ```
 npm install
